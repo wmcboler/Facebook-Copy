@@ -1,0 +1,10 @@
+body{
+    background: #fff;
+    color:#1c1e21;
+}
+#title{
+    background:#F0F2F5;
+}
+.flex{
+    display: flex;  
+}
